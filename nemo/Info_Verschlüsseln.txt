@@ -1,0 +1,2 @@
+Standardmäßig ist das Caching der Passwörter für die Entschlüsselung deaktiviert. Möchte man Mechanismen testen, so muss man es aktivieren, indem man die Datei "/home/philipp/.gnupg/gpg-agent.conf" umbenennt und "gpgconf --kill gpg-agent; gpgconf --reload gpg-agent" ausführt
+Am Ende nicht vergessen, der Datei ihren alten Namen wiederzugeben und die Befehle auszuführen.
