@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Übersetzer mit Firefox und Suchstring aufrufen
 # "--new-window" da das Fenster automatisch geschlossen werden soll, nachdem ich die Übersetzung gelesen habe und weggklickt habe
 # Man kann zwar auch Reiter/Tabs schließen aber dann nur den aktuellen/offen, dh. ich müsste warten bis das Skript den Reiter/Tab schließt und kann nicht wegklicken, bzw. würde ich das tun schlösse sich ein anderer oder ich müsste auf diese Mechanik verzichten und sie manuell schließen und es würden sich ggfl. viele Übersetzer-Reiter/Tabs ansammeln.

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Search the english wikipedia easily for the highlighted word or the word in the clipboard. Script is executed by <ALT + E>
 
